@@ -1,0 +1,14 @@
+E:\Git\SchoonerDice\SchoonerDice\bin\Debug\net8.0\SchoonerDice.exe
+E:\Git\SchoonerDice\SchoonerDice\bin\Debug\net8.0\SchoonerDice.deps.json
+E:\Git\SchoonerDice\SchoonerDice\bin\Debug\net8.0\SchoonerDice.runtimeconfig.json
+E:\Git\SchoonerDice\SchoonerDice\bin\Debug\net8.0\SchoonerDice.dll
+E:\Git\SchoonerDice\SchoonerDice\bin\Debug\net8.0\SchoonerDice.pdb
+E:\Git\SchoonerDice\SchoonerDice\obj\Debug\net8.0\SchoonerDice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\SchoonerDice\SchoonerDice\obj\Debug\net8.0\SchoonerDice.AssemblyInfoInputs.cache
+E:\Git\SchoonerDice\SchoonerDice\obj\Debug\net8.0\SchoonerDice.AssemblyInfo.cs
+E:\Git\SchoonerDice\SchoonerDice\obj\Debug\net8.0\SchoonerDice.csproj.CoreCompileInputs.cache
+E:\Git\SchoonerDice\SchoonerDice\obj\Debug\net8.0\SchoonerDice.dll
+E:\Git\SchoonerDice\SchoonerDice\obj\Debug\net8.0\refint\SchoonerDice.dll
+E:\Git\SchoonerDice\SchoonerDice\obj\Debug\net8.0\SchoonerDice.pdb
+E:\Git\SchoonerDice\SchoonerDice\obj\Debug\net8.0\SchoonerDice.genruntimeconfig.cache
+E:\Git\SchoonerDice\SchoonerDice\obj\Debug\net8.0\ref\SchoonerDice.dll
