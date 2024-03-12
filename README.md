@@ -1,13 +1,13 @@
-##How to run the program
+## How to run the program
 
 1. cd SchoonerDice/bin/Debug/net8.0
-2. Mac user:
+2. Mac users:
     `./SchoonerDice`
 
    Windows Users:
    Double click on `SchoonerDice.exe`
 
-##How to use:
+## How to use:
 ```
 Enter 5 Dice Roll: (example: 11458)
 9.Exit
